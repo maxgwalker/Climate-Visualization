@@ -187,7 +187,6 @@ ggplot() +
     labs(y="latitude", x="longitude", fill="anomaly, deg. C", title='2016 Temperatures')
 ```
 
-
 ## Conclusions
 
 Now were able to get a better understanding of how global climate change has impacted different areas of the world across time. First, while temperatures have clearly been rising everywhere, the 2010s show a noticeable uptick which is even more dramatic when looking solely at 2016. This is in congruence with what we saw in the scatter-plot earlier, a sharp rise in recent years. Secondly, not every region has experienced similar changes. Parts of the U.S and Eastern Europe have actually shown colder than average temperatures in recent years This accentuates the stark contrast between weather and climate and should be understood in the context of trends on the global scale. Lastly, despite improving slightly in recent years, this dataset lacks sufficient data to make any claims about the polar regions, which are arguably the most important in terms of moderating the global climate. 
