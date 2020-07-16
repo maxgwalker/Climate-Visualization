@@ -1,5 +1,7 @@
-Climate-Visualizations
-Visualize how the climate has changed since the 1880s
+# Climate-Visualizations
+
+## Visualize how the climate has changed since the 1880s
+
 With temperature readings paired with geographic coordinates, I made visualizations to better understand if and where global temperatures have been changing. The dataset used does not provide specific temperature readings, but rather provides the information relative to the average of that specific location at that specific month from 1971-2000. While this limits the ability to compare temperatures across different locations at a specfic time, it is ideal for comparing data at a given location across time.
 
 Data Source:
